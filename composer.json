@@ -1,0 +1,6 @@
+{
+    "require": {
+        "ext-gd": "*",
+        "phpoffice/phpspreadsheet": "^2.0"
+    }
+}
